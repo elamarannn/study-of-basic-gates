@@ -67,6 +67,7 @@ Y= A⊕B
 **PROGRAM**
 
 *Developed by:  Elamaran S E*
+
 *RegisterNumber: 212222230036*
 
 ![424277211-873672ae-7205-4e1a-9847-3d959e833600](https://github.com/user-attachments/assets/bbaf1978-ca10-47cc-985c-ff04f42061a3)
