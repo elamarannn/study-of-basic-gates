@@ -70,10 +70,16 @@ Developed by:  Elamaran S E
 RegisterNumber: 212222230036
 **PROGRAM**
 ![424277211-873672ae-7205-4e1a-9847-3d959e833600](https://github.com/user-attachments/assets/bbaf1978-ca10-47cc-985c-ff04f42061a3)
+
+
 **Logic symbol & Truthtable**
 ![0afc581c-1644-4a0c-9199-9cc0bffed540](https://github.com/user-attachments/assets/23c1d680-748c-4d36-ace5-c6452589943e)
+
+
 **RTL**
 ![ex1 rtl](https://github.com/user-attachments/assets/12ac8d6b-89e0-4a56-8ccf-4e5d8e23fce7)
+
+
 **WAVEFORM**
 ![48a91ff9-fa06-4a18-968c-1131efb4a471](https://github.com/user-attachments/assets/0768778c-d2e7-4be6-ab00-3ab1b949c19f)
 
